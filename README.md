@@ -9,6 +9,7 @@ Algorithm
 6- Motor_2 moves with the same angel
 7- END
 
+The circuit in tinkercad: https://v1.tinkercad.com/things/5AgM1BJDJuf-terrific-kup/editel
 
 ____
 SEREEN BAHDAD
